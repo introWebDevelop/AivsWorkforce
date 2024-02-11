@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Workbench&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&family=Workbench&display=swap');
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: lightskyblue;
+	font-family: sans-serif;
+	padding: 0px;
+	margin: 0px;
+	color: darkblue;
+}
+
+p {
+	font-family: "Poiret One", sans-serif;
+	font-size: 20px;
+}
+
+ul.list {
+	font-family: "Poiret One", sans-serif;
+	font-size: 20px;
+	list-style-type: square;
+}
+
+
+.image {
+	display: inline-block;
+	margin-left: 745px;
+	margin-right: 745px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 200%;
+}
+
+.image2 {
+	display: inline-block;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 50%;
+}
+
+.header {
+	font-family: "Workbench", sans-serif;
+	font-size: 40px;
+	text-align: center;
+}
+
+.menu {
+	font-family: "Poiret One", sans-serif;
+	font-size: 40px;
+	border: 2px solid darkblue;
+}
+
+.navLink {
+	margin: 20px;
+	display: inline-block;
+}
+
+.mainContainer {
+	font-size: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: 30px;
+	border: 1 solid darkgray;
+}
+
+.content {
+	font-weight: lighter;
+}
+
+.subTitle {
+	font-family: "Workbench", sans-serif;
+	font-size: 25px;
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+.footer {
+	margin-bottom: 100px;
+	margin-top: 100px;
+	color: #00008B;
+	text-align: center;
+	text-decoration: underline;
+}
+
